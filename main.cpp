@@ -111,17 +111,17 @@ guitar.gentlyWeep();
 rock.tumble();
 //  action 2:    the rock rolls
 rock.roll();
-//  action 3:    the rock sits motionless for eons
-rock.abide();
+//  action 3:    the rock sits motionless
+rock.sitMotionless();
 
 //  8)
-//  Noun:        bird   
-//  action 1:    the bird flies
-bird.fly();
-//  action 2:    the bird screeches 
-bird.screech();
-//  action 3:    the bird sits on a wire
-bird.sitOnWire();
+//  Noun:        killer whale   
+//  action 1:    the killer whale swims fast
+killerWhale.swimFast();
+//  action 2:    the killer whale dives deep 
+killerWhale.diveDeep();
+//  action 3:    the killer whale holds its breath
+killerWhale.holdBreath();
 
 //  9)
 //  Noun:        fox
