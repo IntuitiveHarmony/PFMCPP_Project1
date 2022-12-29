@@ -52,85 +52,94 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        dog
+//  action 1:    the dog sits
+dog.sit();
+//  action 2:    the dog barks
+dog.bark();
+//  action 3:    the dog wags its tail
+dog.wagTail();
 
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        tree
+//  action 1:    the tree grows
+tree.grow();
+//  action 2:    the tree sheds leaves
+tree.shedLeaves();
+//  action 3:    the tree buds new leaves
+tree.bud();
 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        computer
+//  action 1:    the computer logs data
+computer.logData();
+//  action 2:    the computer deletes data
+computer.deleteData();
+//  action 3:    the computer crashes :(
+computer.crash();
 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        jason    
+//  action 1:    jason eats
+jason.eat();
+//  action 2:    jason sleeps 
+jason.sleep();
+//  action 3:    jason codes
+jason.code();
 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        cloud
+//  action 1:    the cloud drifts
+cloud.drift();
+//  action 2:    the cloud grows
+cloud.grow();
+//  action 3:    the cloud rains
+cloud.rain();
 
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        guitar
+//  action 1:    the guitar walks
+guitar.walk();
+//  action 2:    the guitar shreds
+guitar.shred();
+//  action 3:    the guitar gently weeps
+guitar.gentlyWeep();
 
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        rock
+//  action 1:    the rock tumbles
+rock.tumble();
+//  action 2:    the rock rolls
+rock.roll();
+//  action 3:    the rock sits motionless
+rock.sitMotionless();
 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        killer whale   
+//  action 1:    the killer whale swims fast
+killerWhale.swimFast();
+//  action 2:    the killer whale dives deep 
+killerWhale.diveDeep();
+//  action 3:    the killer whale holds its breath
+killerWhale.holdBreath();
 
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        fox
+//  action 1:    the fox jumps
+fox.jump();
+//  action 2:    the fox runs
+fox.run();
+//  action 3:    the fox leaps
+fox.leap();
 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        door   
+//  action 1:    the door opens
+door.open();
+//  action 2:    the door closes
+door.close();
+//  action 3:    the door locks
+door.lock();
 
 
 #endif
